@@ -1,0 +1,10 @@
+---
+- name: Apache Deployement
+  hosts: all
+  roles:
+    - httpd
+
+
+
+
+    
